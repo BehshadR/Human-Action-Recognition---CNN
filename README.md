@@ -1,5 +1,5 @@
 # Human-Action-Recognition---CNN
-Human Action Recognition by Convolutional Neural Network
+Building an Image Classification Model using Convolutional Neural Network that classifies to which class of activity a human is performing.
 
 * Dataset contains 15 different classes of human activities - 'calling', ’clapping’, ’cycling’, ’dancing’, ‘drinking’, ‘eating’, ‘fighting’, ‘hugging’, ‘laughing’, ‘listeningtomusic’, ‘running’, ‘sitting’, ‘sleeping’, texting’, ‘using_laptop’.
 * Train folder contains over 12000 images for training the model.
